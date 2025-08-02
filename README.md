@@ -6,7 +6,9 @@ Welcome to **Cinevolve** — an open-source filmmaking playground. This repo doc
 
 ---
 
-## 🌐 What is Cinevolve?
+## 🌐 What is Cinevolve? 
+
+https://gamma.app/docs/CinEvolve-wmevt13enyrnz93
 
 A meta-studio framework blending:
 
