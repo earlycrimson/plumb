@@ -1,0 +1,1 @@
+What is the Optimal Prompt for transferring the style of our three reference images over to the storyboard images via img2img software in accordance with the Miro board screenshots as direction. Please include the Optimal Prompt for animating those outputs via img2vid software as well
